@@ -1,7 +1,8 @@
 <h1 align="center">Hi👋 Im Karla Chavez</h1> 
+<!--
 <p align="center">
   <img  src="https://hips.hearstapps.com/hmg-prod/images/gatos-instagram-1568280221.gif"/>
-</p>
+</p>-->
 <h4 align="center">Soy estudiante de Analista Programador Universitario en la UNLP apasionada por seguir aprendiendo </h4>
 
 
